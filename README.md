@@ -3,7 +3,7 @@
 
 Mohammadreza Saraei [^1] ([Website](https://www.linkedin.com/in/mrsaraei/)), Sidong Liu ([Website](https://researchers.mq.edu.au/en/persons/sidong-liu))
 
-**Published Paper: [Frontiers in Health Informatics (29 October 2023)](https://doi.org/10.30699/fhi.v12i0.493)**
+**Published Paper: [Frontiers in Health Informatics (29 October 2023)](https://researchers.mq.edu.au/en/publications/attention-based-deep-learning-approaches-in-brain-tumor-image-ana#:~:text=Conclusion%3A%20While%20attention%2Dbased%20deep,tumors%2C%20and%20high%20computational%20demands.)**
 
 <p align="center">
   <img src="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/d15ae237591f639b78133bc36b17caa43e748feb/figure/Fig_1.png" width="75%"/> 
