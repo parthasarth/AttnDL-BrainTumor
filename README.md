@@ -5,11 +5,15 @@ Mohammadreza Saraei [^1] ([Website](https://www.linkedin.com/in/mrsaraei/)), Sid
 
 **Published Paper: [Frontiers in Health Informatics (29 October 2023)](https://doi.org/10.30699/fhi.v12i0.493)**
 
-![AttnDL-BrainTumor]()
+<p align="center">
+  <img src="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/e6b179d4ee12e3ac5f837b7ede28ad296b3f68b3/figure/Fig_1.jpg" width="100%"/> 
+</p>
 
 <p align='justify'>Accurate diagnosis of brain tumors is crucial due to their low survival rates and high treatment costs. However, traditional methods that rely on manual interpretation of medical images are time-consuming and prone to error. Attention-based deep learning, which leverages deep neural networks to selectively focus on relevant features, offers a promising solution. This paper provides an overview of recent advancements in attention-based deep learning for brain tumor image analysis. Although the reviewed models have demonstrated respectable performance across various datasets, they have not yet achieved state-of-the-art results. Advanced techniques, such as super-resolution image reconstruction, multi-Swin transformer blocks, and spatial group-wise enhanced attention blocks, have led to improved performance in segmentation networks. Furthermore, the integration of graph attention, Swin transformers, and gradient awareness minimization—combined with positional attention convolution blocks, self-attention blocks, and intermittent fully connected layers—has significantly enhanced the efficiency of classification networks. Despite these advancements, several challenges remain, including the need for large annotated datasets, limited computational resources, difficulty in accurately segmenting irregularly shaped tumors, and high processing demands. Future research should aim to address these limitations to improve the effectiveness and real-world applicability of attention-based deep learning in brain tumor diagnosis.</p>
 
-![medical imaging modality]()
+<p align="center">
+  <img src="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/e6b179d4ee12e3ac5f837b7ede28ad296b3f68b3/figure/Fig_2.jpg" width="100%"/> 
+</p>
 
 ## Reviewed Studies from 2022 to 2023
 <p align="center">
