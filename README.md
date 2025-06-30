@@ -15,7 +15,7 @@ Mohammadreza Saraei [^1] ([Website](https://www.linkedin.com/in/mrsaraei/)), Sid
   <img src="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/d15ae237591f639b78133bc36b17caa43e748feb/figure/Fig_2.png" width="75%"/> 
 </p>
 
-## Reviewed Methodologies
+## Reviewed Methodologies & Modallities
 <p align="center">
   <img src="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/d15ae237591f639b78133bc36b17caa43e748feb/figure/Fig_3.png" width="100%"/>
   <img src="https://github.com/mrsaraei/AttnDL-BrainTumor/blob/d15ae237591f639b78133bc36b17caa43e748feb/figure/Fig_4.png" width="100%"/>
